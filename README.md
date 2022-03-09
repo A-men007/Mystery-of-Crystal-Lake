@@ -5,7 +5,7 @@ Features include:
 -walking using up, down, right, and left arrows
 -c to turn on and off flashlight
 
-MainPrototype.unity holds the game I created if you want to check it out without playing it.
+MainPrototype.unity holds the game I created if you want to check out the entire enviornment.
 
 Execution file:
-Mystery_of_CrystalLake.exe
+Build/Mystery_of_CrystalLake.exe
